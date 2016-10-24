@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.1">
+   <dict>
+      <elem>
+         <key>Category</key>
+         <string>KnowledgeBase</string>
+      </elem>
+      <elem>
+         <key>Description</key>
+         <string>&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Using an template file when writing to Excel &lt;/p&gt;
+</string>
+      </elem>
+      <elem>
+         <key>FmeBuildNum</key>
+         <string>16668</string>
+      </elem>
+      <elem>
+         <key>History</key>
+         <string></string>
+      </elem>
+      <elem>
+         <key>Items</key>
+         <array>
+            <dict>
+               <elem>
+                  <key>Name</key>
+                  <string>ExcelTemplateDemo2016.fmw</string>
+               </elem>
+               <elem>
+                  <key>Role</key>
+                  <string>Primary</string>
+               </elem>
+               <elem>
+                  <key>Title</key>
+                  <string>ExcelTemplateDemo2016</string>
+               </elem>
+            </dict>
+            <dict>
+               <elem>
+                  <key>Name</key>
+                  <string>Vancouver Weather Data1940-2012</string>
+               </elem>
+               <elem>
+                  <key>Path</key>
+                  <string>Vancouver Weather Data1940-2012.csv</string>
+               </elem>
+            </dict>
+            <dict>
+               <elem>
+                  <key>Name</key>
+                  <string>WeatherDataTemplate</string>
+               </elem>
+               <elem>
+                  <key>Path</key>
+                  <string>WeatherDataTemplate.xlsx</string>
+               </elem>
+            </dict>
+         </array>
+      </elem>
+      <elem>
+         <key>LastSaveBuild</key>
+         <string>FME(R) 2016.1.2.0 (20160906 - Build 16668 - WIN64)</string>
+      </elem>
+      <elem>
+         <key>LastSaveDate</key>
+         <string>2016-09-22T08:18:25</string>
+      </elem>
+      <elem>
+         <key>LegalTermsAndConditions</key>
+         <string>&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;
+    &lt;br/&gt;
+&lt;/p&gt;
+</string>
+      </elem>
+      <elem>
+         <key>Name</key>
+         <string>ExcelTemplateDemo2016.fmwt</string>
+      </elem>
+      <elem>
+         <key>OriginalFiles</key>
+         <array>
+            <string>Vancouver Weather Data1940-2012.csv</string>
+            <string>WeatherDataTemplate.xlsx</string>
+         </array>
+      </elem>
+      <elem>
+         <key>PrimaryDocument</key>
+         <string>ExcelTemplateDemo2016.fmw</string>
+      </elem>
+      <elem>
+         <key>Requirements</key>
+         <string>&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;
+    &lt;br/&gt;
+&lt;/p&gt;
+</string>
+      </elem>
+      <elem>
+         <key>RequirementsKeyword</key>
+         <string>none</string>
+      </elem>
+      <elem>
+         <key>Title</key>
+         <string>ExcelTemplateDemo2016</string>
+      </elem>
+      <elem>
+         <key>Usage</key>
+         <string>&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;
+    &lt;br/&gt;
+&lt;/p&gt;
+</string>
+      </elem>
+   </dict>
+</plist>
