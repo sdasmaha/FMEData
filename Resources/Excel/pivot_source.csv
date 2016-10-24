@@ -1,0 +1,10 @@
+city,region,potential,observed
+Surrey,Vancouver,high,3.4
+Vancouver,Vancouver,high,1.2
+Prince George,Cariboo,medium,7.4
+Richmond,Vancouver,medium,4.8
+Nelson,Kootenay,high,1.4
+Ferrie,Kootenay,high,8.5
+Terrace,Northwest,low,9.3
+Prince Rupert,Northwest,medium,1.1
+Golden,Kootenay,medium,0.9
